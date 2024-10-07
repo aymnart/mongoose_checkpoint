@@ -1,0 +1,25 @@
+{
+  "name": "checkpoint_mongoose",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/believer297/mongoose_checkpoint.git"
+  },
+  "author": "aymen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/believer297/mongoose_checkpoint/issues"
+  },
+  "homepage": "https://github.com/believer297/mongoose_checkpoint#readme",
+  "description": "",
+  "dependencies": {
+    "config": "^3.3.12",
+    "express": "^4.21.0",
+    "mongodb": "^6.9.0",
+    "mongoose": "^8.7.0"
+  }
+}
